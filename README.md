@@ -13,7 +13,7 @@
 
 ## Demo
 This Webapp is deployed on Streamlit-sharing
-Link: [https://share.streamlit.io/rahul1758/search-engine/main/app.py](https://share.streamlit.io/rahul1758/search-engine/main/app.py)
+Link: [https://share.streamlit.io/rahul1758/bangalore-house-price-prediction/app.py](https://share.streamlit.io/rahul1758/bangalore-house-price-prediction/app.py)
 ### Working
 ![]()
 
